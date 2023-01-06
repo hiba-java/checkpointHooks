@@ -50,3 +50,14 @@
   padding : 10px 20px ;
   font-size: 20px;
 }
+
+.Description {
+  width : 50vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color:  rgba(10,10, 10, 0.5);
+  border-width: 1px;
+  border-radius: 20%;
+}
